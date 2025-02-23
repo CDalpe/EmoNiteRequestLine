@@ -11,7 +11,8 @@
 
 ### Technical Challenges
 - API will need to be secured, without the initial requirement of supporting user logins.
-- Anti-spamming of voting could become a requirement depending on use cases.
+- Browser Fingerprinting for preventing spam voting could become a requirement depending on use cases.
+  - Potential Tool: https://github.com/FoxIO-LLC/ja4/tree/main
 - A decision will need to be made on how long to retain songs in the queue, as well as for how long a session will last (length of song, timed duration, until EOD, etc)
 
 ## System Design & Architecture 
